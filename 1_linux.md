@@ -1,2 +1,2 @@
-##Important linux practices for bioinformatics
+## Important linux practices for bioinformatics
 
